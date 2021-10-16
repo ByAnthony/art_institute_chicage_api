@@ -1,5 +1,5 @@
 .flexbox{
-    margin:25px;
+    margin:25px 25px 75px 25px;
 }
 .flexbox-container{
     display:flex;

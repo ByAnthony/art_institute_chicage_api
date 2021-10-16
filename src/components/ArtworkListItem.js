@@ -6,7 +6,7 @@ const ArtworkListItem = ({artwork, onArtworkClick}) => {
 
     const handleClick = function(){
         onArtworkClick(artwork);
-      }
+    }
 
     return(
         <div className="list-item" onClick={handleClick}>
