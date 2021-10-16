@@ -3,7 +3,7 @@ import ArtworkList from '../components/ArtworkList';
 import ArtworkDetail from '../components/ArtworkDetail';
 import './ArtworkContainer.css';
 
-var number = Math.floor(Math.random() * (100 - 1 + 1) + 1);
+var number = Math.floor(Math.random() * (200 - 1 + 1) + 1);
 
 const ArtworkContainer = () => {
 
