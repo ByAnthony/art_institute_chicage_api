@@ -1,0 +1,15 @@
+table{
+    font-family:"Work Sans";
+    font-size:15px;
+    line-height:20px;
+    color:rgb(150,150,150);
+    padding-bottom:20px;
+    border-collapse:collapse;
+}
+table tr{
+    border-bottom:1px solid rgb(50,50,50);
+}
+table th{
+    width:40%;
+    padding:15px 50px 15px 0;
+}

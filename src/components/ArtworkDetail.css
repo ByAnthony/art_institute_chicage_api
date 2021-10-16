@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap');
+
+.artwork-detail{
+    margin:0 auto;
+    width:100%;
+    padding:50px;
+}
+.artwork-flexbox{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.artwork-flexbox-item{
+    padding:25px;
+    width:500px;
+    text-align:left;
+    opacity:50%;
+    transition:1s;
+}
+.artwork-flexbox-item img{
+    width:100%;
+}
+.artwork-flexbox-item h2{
+    font-family:"Noto Serif Display";
+    font-size:30px;
+    color:rgb(150,150,150);
+    line-height:35px;
+    padding-bottom:25px;
+}
